@@ -1,0 +1,73 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+/* Style inputs */
+body{
+  background-color: #edf2f4;
+  font-family: "Poppins", serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.search {
+  width: 75%;
+}
+
+h3, h1 {
+  padding: 12px 12px;
+  margin: 4px 4px;
+  display: flex;
+  justify-content:center;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 12px;
+  margin: 4px 4px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  background-color: #1d3557;
+  color: white;
+  padding: 12px 12px;
+  margin: 4px 4px;
+  border: 1px solid #1d3557;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #457b9d;
+}
+
