@@ -2,7 +2,8 @@
 A clean and simple tool to help shoppers compare specs for bikes. Most useuful for beginners or new riders as a way to compare power and price between different bikes. 
 
 
-![alt tag](https://imgur.com/VlkufKb)
+<img src="https://imgur.com/VlkufKb.jpg" width="100%">
+
 
 ## How It's Made:
 
